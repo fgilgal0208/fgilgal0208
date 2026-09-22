@@ -41,9 +41,9 @@
 
 ### 📂 Mis Proyectos
 
-* **[Gestión Web - CD Murianense]**  
-  *Administración de la presencia web y creación de recursos digitales para el club.*  
-  `HTML` `CSS` `Diseño`
+* **[WebCDM - CD Murianense]**  
+  *Página web desarrollada para el club de fútbol de mi pueblo, Cerro Muriano. Cuenta con una parte pública para los aficionados y un panel de administración privado donde los administradores pueden gestionar, editar y publicar dinámicamente noticias, partidos, resultados, jugadores y clasificaciones.*  
+  `PHP` `Laravel` `Blade` `MySQL` `JavaScript` `CSS`
 
 * **[ReservasDor]**  
   *Breve descripción: por ejemplo, "API RESTful para la gestión de usuarios y reservas."*  
