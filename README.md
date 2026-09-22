@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![tailwindCSS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend:**  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -41,11 +41,11 @@
 
 ### 📂 Mis Proyectos
 
-* **[WebCDM - CD Murianense]**  
+* **[WebCDM - CD Murianense](https://github.com/fgilgal0208/webcdm-proyectopersonal)**  
   *Página web desarrollada para el club de fútbol de mi pueblo, Cerro Muriano. Cuenta con una parte pública para los aficionados y un panel de administración privado donde los administradores pueden gestionar, editar y publicar dinámicamente noticias, partidos, resultados, jugadores y clasificaciones.*  
   `PHP` `Laravel` `Blade` `MySQL` `JavaScript` `CSS`
 
-* **[ReservasBarX]([https://github.com/fgilgal0208/ReservasBarX-0beca71c2305dd267b10bb368ad4ad6e56d096eb](https://github.com/fgilgal0208/ReservasBarX))**  
+* **[ReservasBarX](https://github.com/fgilgal0208/reservasbarx)**  
   *Sistema integral para la reserva de habitaciones. Incluye un panel con autenticación de usuarios, gestión completa de las reservas en la base de datos y una funcionalidad específica para generar resúmenes o justificantes dinámicos en formato PDF.*  
   `PHP` `Laravel` `Blade` `MySQL` `Generación PDF`
 
