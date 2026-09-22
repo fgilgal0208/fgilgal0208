@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hola, soy Francisco Gilarte Galán 👋
 
-<!--
-**fgilgal0208/fgilgal0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![es](https://img.shields.io/badge/Español-0f8a3c?style=for-the-badge)](README.md)
+[![en](https://img.shields.io/badge/English-blue?style=for-the-badge)](README-en.md)
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí
+* 🎓 Estudiante de 2º año del Ciclo Superior en Desarrollo de Aplicaciones Web (DAW).
+* 💡 Apasionado por la tecnología, el código limpio y la resolución de problemas mediante software.
+* 🎯 Interesado en el desarrollo full-stack, la integración de APIs y el desarrollo de soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológico
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![tailwindCSS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend:**  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+**Bases de Datos:**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F00000?style=for-the-badge&logo=oracle&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Herramientas y Entorno:**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23F37623.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+### 📂 Mis Proyectos
+
+* **[Gestión Web - CD Murianense]**  
+  *Administración de la presencia web y creación de recursos digitales para el club.*  
+  `HTML` `CSS` `Diseño`
+
+* **[ReservasDor]**  
+  *Breve descripción: por ejemplo, "API RESTful para la gestión de usuarios y reservas."*  
+  `PHP` `Laravel` `MySQL` `Docker`
+
+* **[Nombre de tu Proyecto JS/Python]**  
+  *Breve descripción: por ejemplo, "Script de automatización o aplicación web interactiva."*  
+  `JavaScript` `Python` `Oracle SQL`
+
+---
+
+### 📫 Contacto y Redes
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frangilarte)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frangilarte07@gmail.com)
