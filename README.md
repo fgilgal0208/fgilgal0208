@@ -45,7 +45,7 @@
   *Página web desarrollada para el club de fútbol de mi pueblo, Cerro Muriano. Cuenta con una parte pública para los aficionados y un panel de administración privado donde los administradores pueden gestionar, editar y publicar dinámicamente noticias, partidos, resultados, jugadores y clasificaciones.*  
   `PHP` `Laravel` `Blade` `MySQL` `JavaScript` `CSS`
 
-* **[ReservasBarX](https://github.com/fgilgal0208/ReservasBarX-0beca71c2305dd267b10bb368ad4ad6e56d096eb)**  
+* **[ReservasBarX]([https://github.com/fgilgal0208/ReservasBarX-0beca71c2305dd267b10bb368ad4ad6e56d096eb](https://github.com/fgilgal0208/ReservasBarX))**  
   *Sistema integral para la reserva de habitaciones. Incluye un panel con autenticación de usuarios, gestión completa de las reservas en la base de datos y una funcionalidad específica para generar resúmenes o justificantes dinámicos en formato PDF.*  
   `PHP` `Laravel` `Blade` `MySQL` `Generación PDF`
 
