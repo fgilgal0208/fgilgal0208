@@ -4,9 +4,9 @@
 [![en](https://img.shields.io/badge/English-blue?style=for-the-badge)](README-en.md)
 
 ### 👨‍💻 About Me
-* 🎓 2nd-year Higher Vocational Training student in Web Application Development (DAW).
-* 💡 Passionate about technology, clean code, and solving problems through software.
-* 🎯 Interested in full-stack development, API integration, and building technological solutions.
+*  2nd-year Higher Vocational Training student in Web Application Development (DAW).
+*  Passionate about technology, clean code, and solving problems through software.
+*  Interested in full-stack development, API integration, and building technological solutions.
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 📂 My Projects
+###  My Projects
 
 * **[WebCDM - CD Murianense](https://github.com/fgilgal0208/webcdm-proyectopersonal)**  
   *Website developed for the local football club of my town, Cerro Muriano. It features a public-facing site for fans and a private admin panel where administrators can dynamically manage, edit, and publish news, games, results, players, and standings.*  
