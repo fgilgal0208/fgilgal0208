@@ -4,13 +4,13 @@
 [![en](https://img.shields.io/badge/English-blue?style=for-the-badge)](README-en.md)
 
 ### 👨‍💻 Sobre mí
-* 🎓 Estudiante de 2º año del Ciclo Superior en Desarrollo de Aplicaciones Web (DAW).
-* 💡 Apasionado por la tecnología, el código limpio y la resolución de problemas mediante software.
-* 🎯 Interesado en el desarrollo full-stack, la integración de APIs y el desarrollo de soluciones tecnológicas.
+*  Estudiante de 2º año del Ciclo Superior en Desarrollo de Aplicaciones Web (DAW).
+*  Apasionado por la tecnología, el código limpio y la resolución de problemas mediante software.
+*  Interesado en el desarrollo full-stack, la integración de APIs y el desarrollo de soluciones tecnológicas.
 
 ---
 
-### 🛠️ Stack Tecnológico
+###  Stack Tecnológico
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-### 📂 Mis Proyectos
+###  Mis Proyectos
 
 * **[WebCDM - CD Murianense](https://github.com/fgilgal0208/webcdm-proyectopersonal)**  
   *Página web desarrollada para el club de fútbol de mi pueblo, Cerro Muriano. Cuenta con una parte pública para los aficionados y un panel de administración privado donde los administradores pueden gestionar, editar y publicar dinámicamente noticias, partidos, resultados, jugadores y clasificaciones.*  
@@ -52,6 +52,6 @@
 
 ---
 
-### 📫 Contacto y Redes
+###  Contacto y Redes
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frangilarte)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frangilarte07@gmail.com)
